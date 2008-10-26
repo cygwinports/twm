@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libICE6 libSM6 libX11_6 libXext6 libXmu6
-sdesc: "Xorg Tiny Window Manager"
-ldesc: "Xorg Tiny Window Manager"
+requires: cygwin libICE6 libSM6 libX11_6 libXext6 libXmu6 libXt6
+sdesc: "X.Org Tiny Window Manager"
+ldesc: "X.Org Tiny Window Manager"
