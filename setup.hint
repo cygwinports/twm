@@ -1,4 +1,0 @@
-category: X11
-requires: libICE6 libSM6 libX11_6 libXext6 libXmu6 libXt6
-sdesc: "X.Org Tiny Window Manager"
-ldesc: "X.Org Tiny Window Manager"

@@ -1,0 +1,11 @@
+inherit xorg
+
+NAME="twm"
+VERSION=1.0.7
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X Tab Window Manager"
+DESCRIPTION="Twm is a window manager for the X Window System.  It provides
+titlebars, shaped windows, several forms of icon management, user-defined
+macro functions, click-to-type and pointer-driven keyboard focus, and
+user-specified key and pointer button bindings."
